@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">customListViewApp</string>
+    <string name="list_title">Courses available</string>
+    <string name="default_logo_description">Logo description</string>
+    <string name="language_name">Language name</string>
+    <string name="language_course_duration">Course duration</string>
+    <string name="language_course_fees">Fees</string>
 </resources>
